@@ -25,7 +25,7 @@ Step 2: Apply the realm-android plugin to the top of the application level build
 
 ## App Images
 
-<p align="left">
+<p align="center">
 
   <img src="https://github.com/apppath/realmdemoapp/blob/master/home-activity.png" width="350"/>
   <img src="https://github.com/apppath/realmdemoapp/blob/master/insert-activity.png" width="350"/>
@@ -34,10 +34,10 @@ Step 2: Apply the realm-android plugin to the top of the application level build
 
 '''
 '''
-<p align="left">
+<p align="center">
 
-  <img src="https://github.com/apppath/realmdemoapp/blob/master/update-activity.png" width="400"/>
-  <img src="https://github.com/apppath/realmdemoapp/blob/master/detail-list.png" width="400"/>
+  <img src="https://github.com/apppath/realmdemoapp/blob/master/update-activity.png" width="350"/>
+  <img src="https://github.com/apppath/realmdemoapp/blob/master/detail-list.png" width="350"/>
 
 </p>
 
