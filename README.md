@@ -29,7 +29,7 @@ Step 2: Apply the realm-android plugin to the top of the application level build
 
 ```java
    
-   package com.example.basicprogramming.realmdemoapp.configs;
+package com.example.basicprogramming.realmdemoapp.configs;
 
 import android.app.Application;
 
